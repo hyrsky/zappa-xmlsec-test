@@ -1,0 +1,8 @@
+{
+	"dev": {
+		"app_function": "app.app",
+		"aws_region": "eu-central-1", 
+		"s3_bucket": "zappa-2uf4v9kg0",
+    "keep_warm": false,
+	}
+}

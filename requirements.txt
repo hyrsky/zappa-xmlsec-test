@@ -1,0 +1,5 @@
+Flask==0.12.1
+zappa==0.42.1
+
+# To be overwritten by lambda-packages:
+xmlsec
