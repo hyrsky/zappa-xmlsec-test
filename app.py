@@ -83,7 +83,7 @@ def test_sign_generated_template_pem_with_x509():
 
 @app.route('/')
 def hello_world():
-    test_sign_generated_template_pem_with_x509
+    test_sign_generated_template_pem_with_x509()
 
     return 'Hello, world!'
 
